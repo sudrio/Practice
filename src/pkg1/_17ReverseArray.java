@@ -1,6 +1,6 @@
 package pkg1;
 
-public class ReverseArray {
+public class _17ReverseArray {
 
 	public static void main(String[] args) {
 		

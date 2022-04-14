@@ -2,7 +2,7 @@ package pkg1;
 
 import java.util.Scanner;
 
-public class SwappingNumbers {
+public class _18SwappingNumbers {
 
 	public static void main(String[] args) {
 		// swapping 2 numbers

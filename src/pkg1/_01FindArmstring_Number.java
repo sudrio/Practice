@@ -2,23 +2,23 @@ package pkg1;
 
 import java.util.Scanner;
 
-public class FindArmstring_Number {
+public class _01FindArmstring_Number {
 
 	public static void main(String[] args) {
 			
-		/*Scanner s = new Scanner(System.in);
+		Scanner s = new Scanner(System.in);
 		System.out.print("Enter Number =");
-		int no=s.nextInt();*/
+		int no=s.nextInt();
 		
-		int no =153;
+		//int no =153;
 		int t1=no;
-		int length=3;
-		/*while(t1 !=0)
+		int length=0;
+		while(t1 !=0)
 		{
 			length=length+1;
 			t1=t1/10;
-			//System.out.print(length);
-		}*/
+			System.out.println(length);
+		}
 		
 		int t2=no;
 		int arm=0;

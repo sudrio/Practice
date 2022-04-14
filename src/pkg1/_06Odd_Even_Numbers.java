@@ -2,7 +2,7 @@ package pkg1;
 
 import java.util.Scanner;
 
-public class Odd_Even_Numbers {
+public class _06Odd_Even_Numbers {
 
 	public static void main(String[] args) {
 		

@@ -1,6 +1,6 @@
 package pkg1;
 
-public class ReverseString {
+public class _16ReverseString {
 
 	
 
@@ -19,9 +19,10 @@ public class ReverseString {
 			ch= s.charAt(i);
 			s1=ch+s1;
 			
-			System.out.println("Reverse String =" +s1);
+			
 			
 		}
+		System.out.println("Reverse String =" +s1);
 
 	}
 
