@@ -13,8 +13,8 @@ public class _08ConvertString_To_Charcters {
 		System.out.print("Enter your String :");
 		String s1 =s.next();*/
 		String s1 = "rio is good boy";
-       char[] c= s1.toCharArray();
-       System.out.println(Arrays.toString(c));
+                char[] c= s1.toCharArray();
+                System.out.println(Arrays.toString(c));
 		
 	}
 
