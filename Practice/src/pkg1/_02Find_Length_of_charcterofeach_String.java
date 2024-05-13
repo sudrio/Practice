@@ -10,7 +10,7 @@ public class _02Find_Length_of_charcterofeach_String {
 	System.out.println("Enter your String :");
 	String s = sc.next();*/
 	
-		String s = "I am Softwere Test Engineer with CTC of 7.5 Lakh";
+		String s = "I am Softwere Test Engineer with CTC of 19.5 Lakh";
 		
 		int initial_length =s.length();
 		
