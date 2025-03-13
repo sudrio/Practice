@@ -8,7 +8,7 @@ public class _16ReverseString {
 		
 		// Reverse the string 
 		
-		String s = "Velocity";  
+		String s = "MachineLearning";  
 		String s1 = "";
 		
 		System.out.println("Original String = " + s );
